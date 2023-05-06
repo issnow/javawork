@@ -24,5 +24,9 @@ public class IdentifierTest {
     int a = 10;
     System.out.println(a);
     int YEAR = 2023;
+    _fn();
+  }
+  public static void _fn(){
+    System.out.println("abc");
   }
 }
