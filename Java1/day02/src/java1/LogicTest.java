@@ -22,7 +22,7 @@ package java1;
   —相同点：如果符号左边是 false ，则二者都执行符号右边的操作
   —不同点： ：| 如果符号左边是 true ，则继续执行符号右边的操作
   || ：如果符号左边是 true ，则不再继续执行符号右边的操作
-  建议：开发中，推荐使用
+  建议：开发中，推荐使用||
  */
 public class LogicTest {
   public static void main(String[] args) {

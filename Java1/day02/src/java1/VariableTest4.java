@@ -61,6 +61,7 @@ public class VariableTest4 {
     long l3 = 123;
     fn((int)l3);//形参是int类型,此时long类型传进去,需要强制类型转换
 
+
   }
   public static void fn(int n){//自动类型提升
     System.out.println(n);
