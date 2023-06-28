@@ -22,7 +22,7 @@ switch(表达式){
 • 同一个 switch 语句，所有 case 子句中的常量值互不相同；
 • break 语句用来在执行完一个 case 分支后使程序跳出 switch 语句块；
 如果没有 break ，程序会顺序执行到 switch 结尾；
-• default 子句是可选的。同时，位置也是灵活的。当没有匹配的 case 时，执行 d efault
+• default 子句是可选的。同时，位置也是灵活的。当没有匹配的 case 时，执行 default
 语句。
 
 if else 语句与 switch case 语句比较
